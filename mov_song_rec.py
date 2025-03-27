@@ -51,13 +51,21 @@ def get_recommendations(ui: input1):
     res = {"songs": [], "movies": []}
     
     songs = rec(df_song, ui.mental_health, ui.happiness, mood, ["Song_Name", "Genre", "YouTube_Link"])
+    uniq_song = set()
     for song in songs:
-        res["songs"].append({"song_name": song[0], "genre": song[1], "ytl": song[2]})
-    
+        sk = (song[0], song[1], song[2])
+        if sk not in uniq_song:
+            res["songs"].append({"song_name": song[0], "genre": song[1], "ytl": song[2]})
+            uniq_song.add(sk)
+
     movies = rec(df_movie, ui.mental_health, ui.happiness, mood, ["Movie_Title", "Genre"])
+    uniq_movies= set()
     for movie in movies:
-        res["movies"].append({"movie_name": movie[0], "genre": movie[1]})
-    print(res)
+        mk = (movie[0], movie[1])
+        if mk not in uniq_movies:
+            res["movies"].append({"movie_name": movie[0], "genre": movie[1]})
+            uniq_movies.add(mk)
+    print("\n",res,"\n")
     return res
 
 if __name__ == "__main__":
