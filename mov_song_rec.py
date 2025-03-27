@@ -65,7 +65,6 @@ def get_recommendations(ui: input1):
         if mk not in uniq_movies:
             res["movies"].append({"movie_name": movie[0], "genre": movie[1]})
             uniq_movies.add(mk)
-    print("\n",res,"\n")
     return res
 
 if __name__ == "__main__":
