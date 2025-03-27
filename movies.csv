@@ -1,0 +1,401 @@
+Movie_Title,Happiness_Level,Mental_Health_Score,Mood,Genre
+Inception,1,0,Bored,Crime
+Interstellar,3,5,"Relaxed, Euphoric, Bored, Happy",Sci-Fi
+The Godfather,5,3,"Anxious, Sad, Euphoric, Relaxed",Drama
+Forrest Gump,0,1,Joyful,Musical
+Schindler's List,3,5,"Happy, Neutral, Excited, Euphoric",Action
+The Dark Knight,4,4,Anxious,Sci-Fi
+Pulp Fiction,0,5,Relaxed,Sci-Fi
+Fight Club,2,1,"Anxious, Neutral",Musical
+The Grand Budapest Hotel,3,4,"Euphoric, Joyful",Crime
+Whiplash,4,3,"Relaxed, Neutral, Happy",Musical
+Good Will Hunting,0,5,"Lonely, Joyful, Sad, Anxious",War
+The Social Network,0,2,"Anxious, Happy, Relaxed",Drama
+Joker,1,4,"Neutral, Lonely, Happy, Excited",Animation
+Avengers: Endgame,3,1,Anxious,Crime
+Django Unchained,0,0,"Euphoric, Sad, Neutral",Western
+The Revenant,4,2,"Relaxed, Depressed",War
+Moonlight,3,1,"Bored, Euphoric, Neutral",Romance
+Mad Max: Fury Road,0,5,"Joyful, Depressed, Happy",Comedy
+The Wolf of Wall Street,1,1,Bored,Biography
+The Big Short,5,5,Happy,Fantasy
+Everything Everywhere All at Once,4,3,"Excited, Joyful, Bored, Neutral",Romance
+Blade Runner 2049,1,5,Sad,Crime
+Dune,5,3,Happy,War
+No Country for Old Men,2,1,"Bored, Euphoric",Action
+There Will Be Blood,1,3,"Anxious, Euphoric, Lonely, Joyful",War
+Her,0,3,"Happy, Neutral, Euphoric, Excited",Western
+Drive,2,5,Sad,Sci-Fi
+John Wick,3,2,"Euphoric, Bored, Sad",Action
+The Irishman,3,4,"Excited, Sad, Neutral, Joyful",Crime
+The Departed,0,1,"Happy, Anxious, Depressed",Fantasy
+Sicario,1,0,"Depressed, Bored, Joyful, Sad",Comedy
+The Hateful Eight,5,4,"Lonely, Bored",Fantasy
+A Beautiful Mind,4,1,"Joyful, Relaxed, Euphoric",Action
+La La Land,5,0,"Depressed, Neutral, Euphoric",Drama
+Eternal Sunshine of the Spotless Mind,0,1,Bored,Drama
+Inside Out,5,4,"Excited, Bored, Depressed",War
+Up,0,1,"Relaxed, Depressed, Joyful",Drama
+Coco,2,1,"Happy, Sad, Lonely, Euphoric",Musical
+The Green Mile,4,0,"Bored, Joyful, Lonely",Romance
+Titanic,4,1,"Depressed, Sad, Bored",Comedy
+The Pursuit of Happyness,5,2,Joyful,Romance
+Inception,2,0,"Lonely, Bored, Sad",Fantasy
+Interstellar,2,4,"Happy, Neutral",Biography
+The Godfather,3,5,"Happy, Neutral, Depressed, Relaxed",Adventure
+Forrest Gump,2,3,"Neutral, Excited, Sad, Bored",Western
+Schindler's List,0,3,"Lonely, Relaxed, Sad, Happy",Adventure
+The Dark Knight,5,4,"Neutral, Bored, Happy, Euphoric",Fantasy
+Pulp Fiction,4,4,"Happy, Excited, Lonely, Bored",Thriller
+Fight Club,2,5,"Happy, Depressed",Biography
+The Grand Budapest Hotel,3,5,"Lonely, Relaxed, Bored",Horror
+Whiplash,1,3,Bored,Action
+Good Will Hunting,3,3,"Anxious, Excited",Animation
+The Social Network,5,1,"Bored, Relaxed, Neutral",Western
+Joker,4,1,"Relaxed, Neutral",Comedy
+Avengers: Endgame,2,1,"Sad, Euphoric, Excited",Mystery
+Django Unchained,3,2,"Neutral, Happy, Anxious",Thriller
+The Revenant,4,1,"Neutral, Relaxed, Bored, Happy",Mystery
+Moonlight,4,2,Joyful,Drama
+Mad Max: Fury Road,1,4,"Joyful, Sad",Drama
+The Wolf of Wall Street,5,5,Joyful,Comedy
+The Big Short,2,5,"Happy, Depressed, Lonely, Joyful",War
+Everything Everywhere All at Once,5,5,Sad,Sci-Fi
+Blade Runner 2049,0,1,"Bored, Lonely, Joyful, Anxious",Comedy
+Dune,3,0,"Lonely, Happy",Horror
+No Country for Old Men,5,2,Happy,Biography
+There Will Be Blood,4,0,"Bored, Euphoric, Lonely, Neutral",Western
+Her,3,1,"Lonely, Relaxed",Romance
+Drive,3,4,Relaxed,Fantasy
+John Wick,3,5,Sad,Horror
+The Irishman,5,2,"Euphoric, Anxious",Sci-Fi
+The Departed,2,3,"Relaxed, Neutral",Horror
+Sicario,0,3,"Neutral, Joyful",Mystery
+The Hateful Eight,5,2,"Lonely, Euphoric",Drama
+A Beautiful Mind,5,3,Anxious,Action
+La La Land,5,5,"Joyful, Happy",Crime
+Eternal Sunshine of the Spotless Mind,4,1,"Sad, Bored",Animation
+Inside Out,2,0,"Sad, Relaxed",Fantasy
+Up,5,0,"Sad, Bored",Thriller
+Coco,4,2,"Anxious, Euphoric",Sci-Fi
+The Green Mile,1,3,Euphoric,Drama
+Titanic,0,5,"Lonely, Happy, Bored, Relaxed",Drama
+The Pursuit of Happyness,1,3,"Happy, Excited, Sad",Western
+Inception,0,2,Joyful,Fantasy
+Interstellar,5,4,Anxious,Animation
+The Godfather,2,4,"Excited, Lonely",Fantasy
+Forrest Gump,1,5,Happy,Animation
+Schindler's List,5,2,Bored,Action
+The Dark Knight,1,4,"Lonely, Relaxed",Horror
+Pulp Fiction,5,2,"Depressed, Euphoric",Horror
+Fight Club,5,3,"Excited, Depressed",Animation
+The Grand Budapest Hotel,2,2,"Euphoric, Neutral, Happy",Romance
+Whiplash,4,4,"Happy, Depressed, Euphoric, Relaxed",Horror
+Good Will Hunting,2,4,"Relaxed, Joyful, Depressed, Anxious",Action
+The Social Network,2,4,"Euphoric, Sad, Bored",Adventure
+Joker,1,0,"Depressed, Bored",Adventure
+Avengers: Endgame,2,1,"Euphoric, Bored, Relaxed",Horror
+Django Unchained,0,3,"Depressed, Euphoric, Sad",Western
+The Revenant,4,2,Sad,Horror
+Moonlight,0,2,"Neutral, Bored",Adventure
+Mad Max: Fury Road,4,1,"Joyful, Bored, Sad",Crime
+The Wolf of Wall Street,2,0,Excited,Western
+The Big Short,0,2,"Relaxed, Joyful, Bored, Anxious",Western
+Everything Everywhere All at Once,5,5,"Excited, Sad, Lonely, Relaxed",Adventure
+Blade Runner 2049,3,5,"Excited, Bored, Depressed",Sci-Fi
+Dune,3,0,Excited,Musical
+No Country for Old Men,1,1,Bored,Thriller
+There Will Be Blood,2,3,Happy,Mystery
+Her,1,0,"Excited, Bored, Lonely, Anxious",Action
+Drive,1,5,Lonely,Romance
+John Wick,4,1,Joyful,Animation
+The Irishman,4,3,"Excited, Relaxed, Bored",Adventure
+The Departed,5,2,"Relaxed, Happy, Excited, Anxious",Animation
+Sicario,5,5,"Anxious, Relaxed, Joyful, Excited",Sci-Fi
+The Hateful Eight,0,1,"Lonely, Anxious, Sad",Action
+A Beautiful Mind,5,1,Lonely,Comedy
+La La Land,4,2,"Happy, Excited, Depressed",Comedy
+Eternal Sunshine of the Spotless Mind,3,1,"Anxious, Relaxed, Excited",Comedy
+Inside Out,4,1,"Lonely, Excited, Euphoric, Relaxed",Drama
+Up,2,2,Euphoric,Musical
+Coco,5,2,"Relaxed, Excited, Neutral",Romance
+The Green Mile,4,2,"Joyful, Neutral, Relaxed",Crime
+Titanic,0,1,"Joyful, Neutral, Lonely, Bored",Mystery
+The Pursuit of Happyness,2,4,Happy,Drama
+Inception,0,2,Anxious,Comedy
+Interstellar,2,0,"Depressed, Lonely, Neutral",Fantasy
+The Godfather,4,0,Euphoric,Thriller
+Forrest Gump,4,2,"Lonely, Relaxed, Happy",War
+Schindler's List,1,0,"Lonely, Relaxed",War
+The Dark Knight,5,0,"Happy, Anxious, Lonely, Relaxed",Adventure
+Pulp Fiction,3,1,Lonely,Animation
+Fight Club,4,2,Relaxed,Fantasy
+The Grand Budapest Hotel,1,5,Happy,Animation
+Whiplash,5,2,"Euphoric, Happy, Joyful, Depressed",Mystery
+Good Will Hunting,4,4,"Euphoric, Joyful, Sad, Happy",Sci-Fi
+The Social Network,5,5,"Sad, Euphoric, Bored, Excited",Fantasy
+Joker,3,0,"Euphoric, Depressed",Musical
+Avengers: Endgame,0,5,"Relaxed, Excited, Joyful",Drama
+Django Unchained,1,4,"Euphoric, Anxious, Excited",Crime
+The Revenant,1,1,Bored,Thriller
+Moonlight,0,3,Sad,Musical
+Mad Max: Fury Road,5,4,"Anxious, Bored",Biography
+The Wolf of Wall Street,5,0,Sad,Mystery
+The Big Short,3,5,"Euphoric, Sad",Sci-Fi
+Everything Everywhere All at Once,5,2,"Happy, Joyful, Lonely, Bored",Adventure
+Blade Runner 2049,0,3,Excited,Comedy
+Dune,3,0,Relaxed,Adventure
+No Country for Old Men,5,5,"Neutral, Relaxed, Excited, Euphoric",Action
+There Will Be Blood,0,5,"Depressed, Bored, Anxious, Euphoric",Crime
+Her,4,1,"Euphoric, Bored",Comedy
+Drive,0,2,Happy,Comedy
+John Wick,5,4,"Happy, Relaxed, Excited, Lonely",Animation
+The Irishman,3,0,"Depressed, Sad",Comedy
+The Departed,3,0,"Euphoric, Lonely, Joyful, Relaxed",Comedy
+Sicario,4,4,"Joyful, Euphoric, Happy, Lonely",Musical
+The Hateful Eight,3,1,"Euphoric, Joyful",Mystery
+A Beautiful Mind,3,5,"Depressed, Relaxed",Musical
+La La Land,0,3,Depressed,Animation
+Eternal Sunshine of the Spotless Mind,0,1,"Happy, Neutral",Action
+Inside Out,1,5,"Sad, Joyful, Lonely, Happy",Western
+Up,2,2,Euphoric,Comedy
+Coco,0,1,"Bored, Neutral",Fantasy
+The Green Mile,2,1,"Anxious, Joyful, Happy",Romance
+Titanic,4,5,Lonely,Crime
+The Pursuit of Happyness,1,0,"Lonely, Sad, Excited, Relaxed",Adventure
+Inception,5,4,"Happy, Joyful, Lonely",Western
+Interstellar,0,1,"Happy, Bored, Relaxed",Western
+The Godfather,0,2,"Euphoric, Bored, Neutral, Anxious",Thriller
+Forrest Gump,0,0,"Joyful, Relaxed, Anxious, Depressed",Western
+Schindler's List,1,1,"Euphoric, Neutral, Happy",War
+The Dark Knight,1,1,"Depressed, Excited",Sci-Fi
+Pulp Fiction,2,1,Relaxed,Horror
+Fight Club,2,1,Joyful,Crime
+The Grand Budapest Hotel,2,0,"Joyful, Euphoric, Happy, Bored",Comedy
+Whiplash,5,3,"Anxious, Excited, Depressed, Neutral",War
+Good Will Hunting,0,0,Anxious,Comedy
+The Social Network,0,3,"Lonely, Euphoric, Happy, Relaxed",Comedy
+Joker,0,5,"Depressed, Excited, Relaxed, Anxious",Crime
+Avengers: Endgame,5,4,Sad,Sci-Fi
+Django Unchained,3,4,"Sad, Excited, Relaxed",Drama
+The Revenant,0,2,"Anxious, Euphoric",Romance
+Moonlight,5,1,"Lonely, Happy",Western
+Mad Max: Fury Road,1,2,Excited,War
+The Wolf of Wall Street,1,0,"Happy, Relaxed",Action
+The Big Short,4,2,"Depressed, Sad",Biography
+Everything Everywhere All at Once,1,1,"Bored, Joyful, Neutral, Happy",Musical
+Blade Runner 2049,2,0,"Neutral, Bored, Depressed",War
+Dune,4,3,Bored,Western
+No Country for Old Men,5,4,"Excited, Depressed, Sad, Relaxed",Biography
+There Will Be Blood,3,2,"Relaxed, Euphoric",Mystery
+Her,4,3,"Euphoric, Bored",Musical
+Drive,0,2,"Neutral, Bored, Euphoric",Fantasy
+John Wick,1,5,Euphoric,Biography
+The Irishman,5,1,"Lonely, Joyful, Happy",Animation
+The Departed,5,1,"Joyful, Happy, Neutral",Romance
+Sicario,2,3,"Anxious, Joyful",Sci-Fi
+The Hateful Eight,2,1,"Relaxed, Neutral, Happy",Adventure
+A Beautiful Mind,1,1,Excited,Horror
+La La Land,5,4,"Sad, Happy, Relaxed",Fantasy
+Eternal Sunshine of the Spotless Mind,4,4,"Excited, Happy, Lonely, Depressed",Adventure
+Inside Out,0,2,"Neutral, Lonely, Relaxed",Drama
+Up,1,2,"Relaxed, Excited, Depressed",Comedy
+Coco,1,4,Anxious,Adventure
+The Green Mile,4,3,Excited,Mystery
+Titanic,3,2,"Happy, Relaxed",Fantasy
+The Pursuit of Happyness,4,5,"Depressed, Lonely, Sad, Joyful",Action
+Inception,4,2,"Anxious, Lonely, Neutral",Mystery
+Interstellar,3,3,"Bored, Anxious, Excited, Lonely",War
+The Godfather,1,0,"Neutral, Happy",War
+Forrest Gump,4,2,"Lonely, Sad",Adventure
+Schindler's List,4,5,Joyful,Musical
+The Dark Knight,0,3,Joyful,Adventure
+Pulp Fiction,5,5,Joyful,Musical
+Fight Club,5,1,Sad,Romance
+The Grand Budapest Hotel,5,5,"Joyful, Anxious",Fantasy
+Whiplash,4,0,"Euphoric, Relaxed",Comedy
+Good Will Hunting,0,1,"Euphoric, Excited, Anxious",Animation
+The Social Network,0,2,Lonely,Animation
+Joker,0,0,Depressed,Western
+Avengers: Endgame,4,1,"Euphoric, Excited, Bored",Fantasy
+Django Unchained,5,5,"Anxious, Bored, Relaxed, Lonely",Adventure
+The Revenant,0,1,"Euphoric, Relaxed, Sad",Animation
+Moonlight,0,2,Lonely,Western
+Mad Max: Fury Road,1,0,"Excited, Euphoric",Sci-Fi
+The Wolf of Wall Street,0,1,Lonely,Action
+The Big Short,0,3,Depressed,Musical
+Everything Everywhere All at Once,0,2,"Euphoric, Excited",Crime
+Blade Runner 2049,2,3,Happy,Thriller
+Dune,2,1,"Happy, Neutral, Anxious",Mystery
+No Country for Old Men,0,4,"Relaxed, Joyful",Drama
+There Will Be Blood,2,2,"Joyful, Bored, Excited, Relaxed",Musical
+Her,4,5,"Depressed, Euphoric, Anxious",Horror
+Drive,1,4,"Bored, Relaxed, Neutral",Sci-Fi
+John Wick,2,2,"Joyful, Depressed, Neutral, Excited",Crime
+The Irishman,0,4,"Neutral, Euphoric, Anxious, Depressed",Crime
+The Departed,3,3,Joyful,Crime
+Sicario,3,1,"Neutral, Depressed, Sad, Relaxed",Thriller
+The Hateful Eight,0,5,Sad,Musical
+A Beautiful Mind,5,4,"Excited, Relaxed",Drama
+La La Land,0,4,"Bored, Excited, Lonely, Sad",Comedy
+Eternal Sunshine of the Spotless Mind,5,1,"Anxious, Relaxed",Comedy
+Inside Out,3,4,Depressed,Drama
+Up,0,3,"Relaxed, Anxious, Neutral",Western
+Coco,5,3,"Bored, Sad",Romance
+The Green Mile,4,4,"Depressed, Neutral, Excited, Euphoric",Comedy
+Titanic,4,0,"Excited, Euphoric",Biography
+The Pursuit of Happyness,5,3,Joyful,Crime
+Inception,2,4,"Happy, Excited, Relaxed",Comedy
+Interstellar,3,2,"Sad, Euphoric, Neutral",Biography
+The Godfather,0,5,"Excited, Anxious, Sad, Happy",Biography
+Forrest Gump,3,5,"Sad, Excited",Action
+Schindler's List,0,1,"Bored, Joyful",Action
+The Dark Knight,0,5,"Depressed, Bored, Excited",Mystery
+Pulp Fiction,4,1,"Happy, Anxious",Action
+Fight Club,1,0,"Neutral, Joyful, Excited",Thriller
+The Grand Budapest Hotel,3,2,"Relaxed, Joyful",Animation
+Whiplash,0,3,"Lonely, Bored, Excited, Depressed",Biography
+Good Will Hunting,4,3,"Depressed, Lonely, Joyful, Sad",Musical
+The Social Network,4,2,Neutral,Thriller
+Joker,2,2,"Anxious, Joyful, Excited, Sad",Thriller
+Avengers: Endgame,5,3,Sad,Crime
+Django Unchained,3,2,"Excited, Happy",Crime
+The Revenant,0,5,Sad,War
+Moonlight,3,3,Depressed,Action
+Mad Max: Fury Road,2,5,Neutral,Comedy
+The Wolf of Wall Street,1,5,"Happy, Relaxed",Musical
+The Big Short,1,1,"Anxious, Excited, Lonely, Neutral",Western
+Everything Everywhere All at Once,5,4,"Depressed, Sad, Excited",Adventure
+Blade Runner 2049,1,1,"Lonely, Sad, Joyful",Horror
+Dune,4,2,"Joyful, Happy, Anxious, Euphoric",Action
+No Country for Old Men,2,2,"Depressed, Anxious, Relaxed, Euphoric",Musical
+There Will Be Blood,2,2,"Lonely, Neutral",Sci-Fi
+Her,4,3,"Lonely, Sad",Adventure
+Drive,1,2,Relaxed,Adventure
+John Wick,2,1,Joyful,Biography
+The Irishman,0,5,Anxious,Romance
+The Departed,4,3,"Happy, Lonely, Anxious",Fantasy
+Sicario,4,0,Joyful,Action
+The Hateful Eight,5,5,Excited,Biography
+A Beautiful Mind,4,0,"Euphoric, Sad, Depressed",Sci-Fi
+La La Land,5,2,Happy,Adventure
+Eternal Sunshine of the Spotless Mind,1,0,Sad,Western
+Inside Out,1,2,"Euphoric, Joyful, Happy",Musical
+Up,4,4,Happy,Sci-Fi
+Coco,3,5,"Neutral, Bored, Happy, Depressed",Fantasy
+The Green Mile,2,2,"Depressed, Excited, Sad",Action
+Titanic,5,1,Happy,Sci-Fi
+The Pursuit of Happyness,1,0,"Bored, Relaxed",Crime
+Inception,5,2,"Bored, Happy, Neutral, Lonely",Sci-Fi
+Interstellar,1,2,"Anxious, Relaxed, Happy, Neutral",Musical
+The Godfather,5,3,"Happy, Lonely, Sad, Neutral",Musical
+Forrest Gump,2,2,Bored,Thriller
+Schindler's List,3,5,Anxious,Animation
+The Dark Knight,4,4,"Relaxed, Sad, Lonely",Animation
+Pulp Fiction,0,4,Relaxed,Mystery
+Fight Club,2,4,"Happy, Neutral",Animation
+The Grand Budapest Hotel,5,3,"Relaxed, Excited",Adventure
+Whiplash,5,4,"Relaxed, Depressed, Neutral",Sci-Fi
+Good Will Hunting,2,0,"Neutral, Lonely",Action
+The Social Network,2,3,"Happy, Excited, Relaxed, Joyful",Musical
+Joker,3,0,"Neutral, Excited",Fantasy
+Avengers: Endgame,1,0,"Lonely, Euphoric, Joyful",Comedy
+Django Unchained,4,4,"Relaxed, Neutral, Excited",Romance
+The Revenant,4,5,"Neutral, Sad, Bored",Biography
+Moonlight,3,5,"Sad, Neutral, Lonely",Mystery
+Mad Max: Fury Road,2,5,"Sad, Neutral",Mystery
+The Wolf of Wall Street,5,5,Euphoric,Fantasy
+The Big Short,3,0,Depressed,Fantasy
+Everything Everywhere All at Once,4,1,"Neutral, Happy",Comedy
+Blade Runner 2049,4,0,Sad,Fantasy
+Dune,5,0,"Sad, Lonely",Animation
+No Country for Old Men,0,1,"Depressed, Relaxed, Neutral, Happy",Horror
+There Will Be Blood,2,1,"Sad, Euphoric, Joyful",Biography
+Her,3,1,"Euphoric, Excited, Bored, Sad",Animation
+Drive,2,0,Relaxed,Action
+John Wick,1,4,"Happy, Euphoric, Bored",Action
+The Irishman,5,3,"Euphoric, Joyful, Bored",Western
+The Departed,3,3,Anxious,Musical
+Sicario,5,1,"Happy, Euphoric, Anxious, Excited",Sci-Fi
+The Hateful Eight,0,0,"Neutral, Lonely",Crime
+A Beautiful Mind,0,0,"Lonely, Relaxed, Anxious",Biography
+La La Land,4,4,"Excited, Depressed",Action
+Eternal Sunshine of the Spotless Mind,5,4,"Neutral, Depressed",Animation
+Inside Out,2,3,"Sad, Relaxed, Depressed, Neutral",Horror
+Up,4,5,Neutral,Crime
+Coco,0,0,"Euphoric, Depressed, Excited, Happy",Adventure
+The Green Mile,1,5,Sad,Sci-Fi
+Titanic,1,0,Bored,Biography
+The Pursuit of Happyness,1,4,"Anxious, Lonely, Neutral, Depressed",Western
+Inception,4,5,"Joyful, Lonely, Relaxed, Sad",Action
+Interstellar,2,2,Sad,War
+The Godfather,5,3,"Lonely, Joyful, Relaxed, Sad",Comedy
+Forrest Gump,4,4,"Happy, Excited",Musical
+Schindler's List,4,4,"Sad, Euphoric, Anxious",Biography
+The Dark Knight,5,2,Sad,Thriller
+Pulp Fiction,2,4,"Happy, Euphoric",Thriller
+Fight Club,4,5,"Sad, Depressed, Joyful",Horror
+The Grand Budapest Hotel,1,5,"Excited, Depressed, Bored, Anxious",Sci-Fi
+Whiplash,1,0,Sad,Action
+Good Will Hunting,5,2,"Anxious, Euphoric, Neutral",Musical
+The Social Network,2,3,Lonely,War
+Joker,2,2,"Bored, Anxious",War
+Avengers: Endgame,5,3,"Excited, Lonely, Sad, Joyful",Fantasy
+Django Unchained,4,3,"Lonely, Depressed",Comedy
+The Revenant,4,3,"Anxious, Excited",War
+Moonlight,2,5,"Lonely, Bored, Depressed",Biography
+Mad Max: Fury Road,2,2,"Neutral, Depressed",Drama
+The Wolf of Wall Street,1,0,"Bored, Excited",Western
+The Big Short,4,3,"Happy, Lonely, Anxious, Bored",Crime
+Everything Everywhere All at Once,1,3,"Happy, Bored, Neutral",Drama
+Blade Runner 2049,2,4,Depressed,Animation
+Dune,4,0,Depressed,Western
+No Country for Old Men,1,0,"Lonely, Anxious",Adventure
+There Will Be Blood,3,4,Euphoric,Comedy
+Her,3,1,Relaxed,War
+Drive,5,2,"Anxious, Depressed, Lonely, Relaxed",Sci-Fi
+John Wick,4,1,Sad,Fantasy
+The Irishman,2,4,"Happy, Relaxed",Romance
+The Departed,2,1,Lonely,Adventure
+Sicario,1,4,Sad,Mystery
+The Hateful Eight,1,1,"Bored, Joyful",Biography
+A Beautiful Mind,4,1,Euphoric,Mystery
+La La Land,3,3,Anxious,Mystery
+Eternal Sunshine of the Spotless Mind,0,3,Depressed,Crime
+Inside Out,2,4,Excited,Biography
+Up,5,1,"Happy, Euphoric, Neutral",Fantasy
+Coco,3,2,"Anxious, Neutral, Sad, Joyful",Western
+The Green Mile,5,4,"Euphoric, Neutral, Anxious, Relaxed",Fantasy
+Titanic,1,3,"Depressed, Sad",Musical
+The Pursuit of Happyness,3,2,"Bored, Excited",Thriller
+Inception,2,2,Excited,Animation
+Interstellar,1,2,"Euphoric, Lonely, Joyful",Crime
+The Godfather,5,4,"Sad, Euphoric, Happy, Excited",Fantasy
+Forrest Gump,4,5,"Joyful, Sad, Happy",Animation
+Schindler's List,4,0,Neutral,Mystery
+The Dark Knight,1,3,"Sad, Joyful, Depressed, Neutral",Comedy
+Pulp Fiction,1,1,"Depressed, Sad",Fantasy
+Fight Club,1,0,Depressed,Crime
+The Grand Budapest Hotel,2,4,"Bored, Sad, Lonely",Animation
+Whiplash,2,5,"Lonely, Joyful, Relaxed, Euphoric",Biography
+Good Will Hunting,0,3,"Bored, Depressed, Euphoric",Horror
+The Social Network,2,2,Happy,Horror
+Joker,2,5,"Sad, Happy, Euphoric",Comedy
+Avengers: Endgame,1,2,Joyful,Animation
+Django Unchained,4,0,"Bored, Sad",Horror
+The Revenant,4,0,"Lonely, Excited",Biography
+Moonlight,4,4,"Lonely, Relaxed, Bored, Depressed",Horror
+Mad Max: Fury Road,5,4,"Joyful, Relaxed, Happy",Musical
+The Wolf of Wall Street,4,2,"Lonely, Relaxed",Adventure
+The Big Short,3,0,"Joyful, Depressed, Happy, Euphoric",Comedy
+Everything Everywhere All at Once,1,2,"Bored, Depressed, Sad",Animation
+Blade Runner 2049,0,2,"Neutral, Euphoric, Bored, Joyful",Comedy
+Dune,4,0,"Excited, Anxious, Relaxed",Fantasy
+No Country for Old Men,2,0,"Bored, Happy, Depressed",Mystery
+There Will Be Blood,4,3,"Depressed, Joyful",Drama
+Her,5,1,Happy,Biography
+Drive,1,1,"Lonely, Bored, Joyful",Drama
+John Wick,4,1,Bored,Mystery
+The Irishman,1,3,"Happy, Depressed, Joyful, Sad",Biography
+The Departed,3,3,"Neutral, Euphoric, Happy",Fantasy
+Sicario,2,1,Euphoric,Horror
