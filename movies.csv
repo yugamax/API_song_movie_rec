@@ -399,3 +399,395 @@ John Wick,4,1,Bored,Mystery
 The Irishman,1,3,"Happy, Depressed, Joyful, Sad",Biography
 The Departed,3,3,"Neutral, Euphoric, Happy",Fantasy
 Sicario,2,1,Euphoric,Horror
+Interstellar,0,1,"Sad, Neutral, Excited, Euphoric",Action
+The Departed,0,2,"Joyful, Happy, Anxious, Bored",Fantasy
+Rocky,2,3,"Excited, Relaxed, Joyful, Neutral",Comedy
+Pulp Fiction,0,5,"Relaxed, Joyful, Euphoric",Fantasy
+La La Land,3,1,"Neutral, Happy, Excited",Action
+Django Unchained,2,5,"Anxious, Relaxed, Happy",Comedy
+The Wolf of Wall Street,1,0,"Neutral, Relaxed, Anxious, Happy",Musical
+The Godfather,1,3,Excited,Fantasy
+Avatar,4,5,"Euphoric, Bored, Happy",Horror
+No Country for Old Men,4,3,"Relaxed, Sad, Excited, Joyful",Musical
+Gladiator,5,1,Bored,Action
+The Avengers,0,1,"Neutral, Happy",Horror
+Spider-Man: No Way Home,3,1,"Sad, Neutral, Bored",Horror
+The Shawshank Redemption,0,3,"Happy, Bored, Relaxed",Musical
+The Batman,5,0,Joyful,Horror
+The Social Network,0,2,Sad,Fantasy
+The Social Network,2,4,"Happy, Bored, Neutral, Euphoric",Musical
+The Shining,1,0,Sad,Musical
+Forrest Gump,1,5,"Sad, Excited, Euphoric",Comedy
+Saving Private Ryan,2,3,Excited,Sci-Fi
+The Irishman,4,1,"Euphoric, Bored, Excited",Comedy
+Goodfellas,5,1,"Bored, Euphoric, Sad, Excited",Fantasy
+The Irishman,4,1,Excited,Sci-Fi
+The Shawshank Redemption,3,2,"Happy, Excited, Sad, Anxious",Thriller
+Deadpool,2,2,"Excited, Euphoric",Sci-Fi
+Whiplash,1,3,"Euphoric, Joyful, Relaxed, Neutral",Comedy
+Star Wars: A New Hope,1,4,"Sad, Euphoric",Thriller
+The Shining,4,3,"Euphoric, Bored, Joyful",Action
+The Wolf of Wall Street,2,0,Anxious,Sci-Fi
+The Prestige,5,0,"Neutral, Sad, Excited, Joyful",Comedy
+The Shining,3,5,Neutral,Sci-Fi
+The Shining,4,5,"Euphoric, Bored",Thriller
+Whiplash,2,0,"Bored, Neutral",Drama
+The Revenant,3,0,"Euphoric, Anxious",Comedy
+The Social Network,3,4,"Neutral, Anxious, Sad",Action
+No Country for Old Men,0,1,"Bored, Happy, Joyful, Relaxed",Musical
+Interstellar,1,4,Excited,Action
+The Avengers,5,5,"Relaxed, Joyful, Anxious, Neutral",Fantasy
+Fight Club,5,3,"Excited, Relaxed, Euphoric",Comedy
+Parasite,2,5,"Relaxed, Happy",Horror
+Avatar,5,5,"Anxious, Excited, Bored",Horror
+Black Panther,4,0,"Happy, Sad",Crime
+The Revenant,4,5,Bored,Horror
+12 Years a Slave,5,0,Bored,Sci-Fi
+The Departed,5,5,"Excited, Joyful",Fantasy
+The Green Mile,5,5,"Bored, Excited, Joyful",Fantasy
+Jaws,1,5,"Neutral, Joyful, Bored",Thriller
+Casablanca,2,1,"Anxious, Excited, Sad",Sci-Fi
+Spider-Man: No Way Home,2,0,"Happy, Relaxed",Action
+Spider-Man: No Way Home,4,1,"Euphoric, Excited, Relaxed, Sad",Action
+The Shining,5,2,Excited,Horror
+Gladiator,4,3,"Neutral, Relaxed, Happy, Joyful",Crime
+Goodfellas,0,5,"Happy, Bored",Action
+Fight Club,3,2,"Bored, Neutral, Anxious, Euphoric",Thriller
+Back to the Future,3,3,"Happy, Sad",Action
+Casablanca,4,0,"Sad, Relaxed, Happy, Neutral",Musical
+Jaws,1,2,"Happy, Bored, Relaxed",Drama
+Avatar,0,2,"Euphoric, Neutral, Sad",Thriller
+The Lord of the Rings: The Return of the King,2,3,Joyful,Comedy
+Slumdog Millionaire,5,5,"Relaxed, Bored",Comedy
+Titanic,4,3,"Euphoric, Neutral",Thriller
+Django Unchained,5,4,"Relaxed, Happy",Crime
+No Country for Old Men,4,3,"Excited, Euphoric, Relaxed",Thriller
+A Beautiful Mind,4,1,"Neutral, Sad, Relaxed, Bored",Sci-Fi
+Schindler's List,4,1,Neutral,Musical
+Bohemian Rhapsody,0,1,Happy,Comedy
+No Country for Old Men,3,2,"Happy, Excited, Bored, Sad",Horror
+Casablanca,3,3,Neutral,Fantasy
+Pulp Fiction,1,5,"Sad, Neutral, Happy, Joyful",Action
+The Shawshank Redemption,0,5,"Joyful, Euphoric, Excited",Horror
+The Grand Budapest Hotel,2,2,"Bored, Neutral, Happy",Drama
+The Dark Knight,1,3,"Euphoric, Relaxed, Joyful",Musical
+Whiplash,2,5,"Excited, Relaxed",Comedy
+Black Panther,5,2,"Relaxed, Euphoric, Anxious, Excited",Comedy
+Joker,0,1,"Sad, Happy",Musical
+The Lord of the Rings: The Return of the King,2,3,"Happy, Bored, Excited, Anxious",Crime
+A Clockwork Orange,5,3,"Joyful, Sad",Horror
+Forrest Gump,0,4,"Relaxed, Happy, Euphoric, Sad",Musical
+Rocky,2,4,"Neutral, Excited",Crime
+Goodfellas,5,2,Euphoric,Crime
+Bohemian Rhapsody,1,1,"Excited, Joyful",Action
+The Dark Knight,5,5,"Bored, Anxious, Relaxed, Neutral",Thriller
+The Silence of the Lambs,0,5,"Joyful, Excited, Bored",Comedy
+The Lord of the Rings: The Return of the King,2,4,"Excited, Sad, Neutral, Euphoric",Fantasy
+Mad Max: Fury Road,4,3,Relaxed,Thriller
+Avatar,0,2,"Sad, Anxious, Bored, Relaxed",Drama
+Bohemian Rhapsody,3,0,"Relaxed, Excited, Happy, Anxious",Crime
+The Irishman,4,0,"Neutral, Sad, Relaxed",Comedy
+Star Wars: A New Hope,1,3,"Excited, Bored, Happy",Musical
+Schindler's List,5,3,Joyful,Horror
+The Social Network,2,1,"Anxious, Bored",Fantasy
+A Beautiful Mind,0,5,"Joyful, Relaxed, Sad, Excited",Comedy
+Inception,2,4,"Excited, Bored",Musical
+The Batman,3,3,Relaxed,Drama
+Mad Max: Fury Road,0,4,"Excited, Neutral",Drama
+A Clockwork Orange,0,0,Relaxed,Action
+The Dark Knight,4,5,"Happy, Relaxed, Excited",Musical
+Deadpool,1,4,"Bored, Anxious, Euphoric, Sad",Horror
+12 Years a Slave,1,1,"Anxious, Happy",Thriller
+No Country for Old Men,5,4,"Bored, Anxious, Relaxed, Neutral",Drama
+Bohemian Rhapsody,2,3,"Euphoric, Anxious",Thriller
+La La Land,4,2,"Joyful, Sad",Drama
+Joker,0,3,Joyful,Drama
+Schindler's List,4,0,"Neutral, Sad",Drama
+Mad Max: Fury Road,0,0,"Bored, Anxious, Sad, Happy",Crime
+The Revenant,3,1,"Happy, Sad, Euphoric",Drama
+La La Land,0,0,Bored,Horror
+Django Unchained,0,5,"Excited, Joyful",Horror
+The Avengers,5,1,"Sad, Euphoric, Anxious",Musical
+Star Wars: A New Hope,3,1,"Relaxed, Happy, Excited, Euphoric",Thriller
+The Lord of the Rings: The Return of the King,2,5,Happy,Crime
+Gladiator,2,2,"Happy, Bored, Joyful, Relaxed",Horror
+The Lion King,2,3,"Relaxed, Bored",Drama
+Interstellar,2,3,"Euphoric, Neutral, Happy",Fantasy
+La La Land,1,1,"Joyful, Anxious, Happy",Comedy
+Goodfellas,4,1,Happy,Crime
+A Clockwork Orange,0,0,Happy,Drama
+The Wolf of Wall Street,0,1,"Excited, Joyful, Anxious",Drama
+Schindler's List,0,4,"Relaxed, Happy",Horror
+Gladiator,1,4,Euphoric,Sci-Fi
+Jaws,4,4,Relaxed,Comedy
+Mad Max: Fury Road,1,1,"Relaxed, Joyful, Excited, Sad",Action
+Forrest Gump,0,2,"Happy, Bored",Horror
+The Dark Knight,3,3,Sad,Action
+The Social Network,4,5,"Neutral, Excited, Relaxed, Joyful",Horror
+The Grand Budapest Hotel,2,0,Bored,Horror
+Back to the Future,2,1,Joyful,Musical
+Deadpool,0,2,"Anxious, Relaxed",Sci-Fi
+Joker,5,3,"Relaxed, Sad",Crime
+Back to the Future,1,3,"Joyful, Anxious, Euphoric, Sad",Crime
+Saving Private Ryan,1,0,"Excited, Joyful, Relaxed, Sad",Drama
+The Matrix,5,1,"Euphoric, Neutral",Sci-Fi
+Parasite,5,5,"Joyful, Anxious, Neutral",Drama
+Slumdog Millionaire,4,0,Happy,Fantasy
+The Shawshank Redemption,0,3,"Neutral, Anxious",Crime
+The Dark Knight,4,3,"Joyful, Relaxed",Comedy
+The Matrix,0,2,"Anxious, Happy, Bored, Excited",Sci-Fi
+Joker,0,1,"Euphoric, Sad, Anxious",Comedy
+Bohemian Rhapsody,0,5,"Euphoric, Joyful, Neutral",Crime
+Schindler's List,4,2,Euphoric,Sci-Fi
+The Grand Budapest Hotel,4,2,"Joyful, Happy, Excited",Comedy
+A Clockwork Orange,0,2,"Sad, Happy",Sci-Fi
+Rocky,0,5,Sad,Action
+Whiplash,5,2,"Neutral, Excited, Happy, Euphoric",Musical
+Goodfellas,4,3,"Happy, Neutral",Fantasy
+The Revenant,3,0,"Euphoric, Sad",Musical
+The Departed,1,1,"Euphoric, Excited, Relaxed",Thriller
+Parasite,1,1,"Excited, Bored",Horror
+The Revenant,3,1,Anxious,Action
+Django Unchained,4,1,"Euphoric, Sad",Fantasy
+The Grand Budapest Hotel,3,4,"Joyful, Happy, Euphoric",Fantasy
+Fight Club,3,4,Excited,Thriller
+The Shawshank Redemption,1,2,"Excited, Neutral, Sad",Musical
+The Godfather,4,0,Euphoric,Drama
+Parasite,0,1,"Euphoric, Excited, Neutral",Drama
+The Batman,5,4,"Bored, Anxious, Happy",Comedy
+The Green Mile,4,2,"Anxious, Joyful, Happy",Comedy
+Spider-Man: No Way Home,1,2,"Bored, Euphoric, Excited",Horror
+Black Panther,4,2,"Joyful, Happy",Comedy
+Django Unchained,1,0,"Neutral, Anxious, Happy, Joyful",Horror
+Deadpool,0,0,Excited,Drama
+The Revenant,2,4,"Euphoric, Happy",Crime
+The Green Mile,5,3,"Neutral, Euphoric, Joyful",Thriller
+Jaws,4,4,"Joyful, Happy, Euphoric",Fantasy
+Star Wars: A New Hope,0,3,"Joyful, Happy, Euphoric",Action
+Parasite,2,2,"Bored, Joyful, Excited, Anxious",Sci-Fi
+12 Years a Slave,1,1,Joyful,Thriller
+The Shawshank Redemption,3,4,"Euphoric, Neutral",Drama
+Casablanca,5,3,"Joyful, Bored, Excited, Sad",Fantasy
+The Lord of the Rings: The Return of the King,4,1,"Joyful, Bored, Excited, Euphoric",Thriller
+No Country for Old Men,3,5,Neutral,Action
+The Avengers,2,0,"Joyful, Sad, Anxious, Euphoric",Horror
+The Social Network,4,2,"Joyful, Bored",Comedy
+The Wolf of Wall Street,5,5,"Happy, Excited, Euphoric, Anxious",Action
+A Clockwork Orange,1,4,"Excited, Bored, Happy, Joyful",Musical
+The Prestige,1,1,"Happy, Relaxed, Bored, Euphoric",Comedy
+The Irishman,4,3,"Bored, Happy, Euphoric, Sad",Comedy
+The Matrix,4,2,"Relaxed, Happy, Anxious, Joyful",Crime
+The Lion King,5,4,Excited,Musical
+The Grand Budapest Hotel,2,2,"Bored, Happy, Neutral, Joyful",Musical
+Goodfellas,0,2,"Relaxed, Anxious, Happy, Sad",Thriller
+Inception,0,3,"Happy, Joyful",Action
+Pulp Fiction,5,1,"Excited, Sad, Happy",Drama
+Star Wars: A New Hope,3,4,"Excited, Relaxed, Happy, Euphoric",Horror
+The Irishman,2,0,"Anxious, Neutral, Happy, Sad",Musical
+Inception,5,3,"Happy, Sad, Excited",Action
+The Social Network,1,2,"Happy, Euphoric",Comedy
+12 Years a Slave,2,4,Excited,Thriller
+Mad Max: Fury Road,2,5,"Relaxed, Anxious",Fantasy
+The Godfather,2,2,"Euphoric, Anxious",Action
+The Shining,5,1,"Euphoric, Anxious, Neutral, Joyful",Thriller
+Bohemian Rhapsody,3,5,Joyful,Crime
+Star Wars: A New Hope,4,3,"Joyful, Euphoric, Anxious, Bored",Musical
+Casablanca,2,2,"Neutral, Relaxed",Comedy
+Spider-Man: No Way Home,3,4,Excited,Drama
+The Silence of the Lambs,3,5,"Excited, Sad, Anxious, Happy",Comedy
+Rocky,1,5,Happy,Action
+The Green Mile,1,4,"Bored, Joyful, Euphoric",Drama
+The Prestige,4,2,Neutral,Comedy
+La La Land,5,2,"Excited, Sad, Anxious, Joyful",Comedy
+Joker,3,3,"Sad, Relaxed, Bored, Neutral",Action
+A Beautiful Mind,1,0,"Happy, Relaxed, Joyful, Bored",Musical
+Titanic,5,3,"Relaxed, Neutral, Joyful, Anxious",Fantasy
+Casablanca,2,5,"Joyful, Neutral, Happy, Euphoric",Musical
+The Departed,0,1,"Euphoric, Bored, Sad, Relaxed",Fantasy
+Saving Private Ryan,0,4,"Happy, Bored, Relaxed",Horror
+The Wolf of Wall Street,3,3,"Euphoric, Bored",Horror
+The Departed,1,1,Relaxed,Sci-Fi
+The Wolf of Wall Street,2,0,"Anxious, Sad, Excited, Joyful",Horror
+The Lion King,1,0,"Relaxed, Happy, Bored",Comedy
+Fight Club,2,0,Relaxed,Sci-Fi
+Back to the Future,3,4,"Relaxed, Neutral",Thriller
+The Matrix,1,2,"Euphoric, Anxious",Comedy
+The Godfather,1,5,"Bored, Happy",Musical
+Jaws,0,4,"Sad, Bored, Excited",Fantasy
+Saving Private Ryan,3,5,"Anxious, Neutral, Euphoric",Sci-Fi
+A Clockwork Orange,2,3,Euphoric,Crime
+The Matrix,1,2,"Relaxed, Euphoric",Fantasy
+Spider-Man: No Way Home,0,3,"Joyful, Bored, Neutral",Sci-Fi
+The Matrix,3,1,"Bored, Relaxed, Euphoric, Excited",Sci-Fi
+Bohemian Rhapsody,2,1,"Excited, Sad",Horror
+Joker,4,0,"Relaxed, Happy, Euphoric",Crime
+Forrest Gump,4,0,"Relaxed, Bored, Neutral, Joyful",Musical
+Back to the Future,5,2,"Euphoric, Relaxed, Excited",Comedy
+Inception,2,3,"Euphoric, Happy",Sci-Fi
+The Prestige,4,5,"Excited, Anxious, Joyful, Euphoric",Horror
+The Revenant,4,3,Joyful,Musical
+The Dark Knight,1,5,"Anxious, Neutral",Horror
+Spider-Man: No Way Home,2,0,Happy,Horror
+The Lion King,5,0,"Relaxed, Euphoric, Neutral, Happy",Comedy
+Slumdog Millionaire,5,3,"Neutral, Joyful",Action
+The Departed,1,2,"Relaxed, Happy, Bored",Drama
+Rocky,2,0,"Bored, Relaxed",Fantasy
+Saving Private Ryan,3,5,"Bored, Excited, Joyful, Happy",Comedy
+Titanic,5,3,Neutral,Crime
+The Dark Knight,1,3,"Excited, Anxious, Bored",Sci-Fi
+Casablanca,5,1,"Sad, Euphoric",Musical
+A Clockwork Orange,0,2,"Excited, Neutral, Joyful, Relaxed",Action
+Parasite,1,1,"Joyful, Happy",Crime
+The Lord of the Rings: The Return of the King,0,3,"Joyful, Excited, Anxious",Crime
+Whiplash,1,2,Sad,Drama
+The Godfather,0,3,"Happy, Bored, Euphoric, Sad",Sci-Fi
+Goodfellas,5,5,"Euphoric, Happy, Relaxed, Bored",Drama
+Pulp Fiction,3,2,"Joyful, Neutral, Euphoric, Excited",Sci-Fi
+Slumdog Millionaire,1,2,Anxious,Fantasy
+Jaws,2,5,"Anxious, Joyful, Excited, Relaxed",Comedy
+The Grand Budapest Hotel,5,2,Euphoric,Fantasy
+Slumdog Millionaire,3,4,"Relaxed, Happy, Bored, Joyful",Musical
+Titanic,4,3,"Relaxed, Sad",Crime
+Parasite,2,4,"Anxious, Sad",Drama
+The Green Mile,5,4,"Neutral, Happy, Relaxed, Excited",Drama
+The Godfather,3,1,Bored,Musical
+Joker,0,1,"Anxious, Euphoric, Happy, Sad",Action
+The Prestige,5,5,Joyful,Thriller
+Interstellar,2,3,"Neutral, Excited, Joyful",Action
+Schindler's List,2,1,Anxious,Drama
+Gladiator,5,3,Happy,Crime
+Slumdog Millionaire,4,3,"Excited, Bored",Action
+The Irishman,0,1,Neutral,Crime
+Star Wars: A New Hope,2,0,"Sad, Bored, Joyful, Happy",Musical
+Interstellar,4,4,"Anxious, Happy",Crime
+Gladiator,5,1,"Sad, Happy",Horror
+Forrest Gump,1,0,"Anxious, Bored, Euphoric",Drama
+The Batman,0,5,"Relaxed, Bored, Excited",Fantasy
+The Dark Knight,5,0,Euphoric,Thriller
+Parasite,0,2,"Happy, Sad, Anxious",Musical
+Django Unchained,5,0,Bored,Musical
+Black Panther,5,0,"Excited, Sad, Euphoric, Anxious",Thriller
+Pulp Fiction,3,4,Euphoric,Action
+The Silence of the Lambs,3,3,"Joyful, Bored",Horror
+The Matrix,1,0,Neutral,Comedy
+Deadpool,2,0,"Anxious, Joyful, Bored, Excited",Action
+Pulp Fiction,0,2,Excited,Horror
+Schindler's List,4,0,Bored,Crime
+The Silence of the Lambs,1,0,Neutral,Sci-Fi
+The Avengers,5,2,Excited,Musical
+A Beautiful Mind,3,1,"Neutral, Excited, Relaxed, Joyful",Musical
+Star Wars: A New Hope,1,1,Happy,Horror
+Interstellar,5,4,"Neutral, Joyful, Excited",Comedy
+A Beautiful Mind,0,4,"Sad, Happy, Anxious",Fantasy
+Casablanca,3,3,Neutral,Drama
+The Silence of the Lambs,1,2,"Euphoric, Excited, Sad, Joyful",Sci-Fi
+Back to the Future,1,3,"Joyful, Happy",Sci-Fi
+Django Unchained,4,4,Euphoric,Crime
+Avatar,0,4,Anxious,Crime
+The Silence of the Lambs,5,0,"Bored, Excited, Euphoric, Anxious",Action
+Fight Club,1,0,"Bored, Neutral",Thriller
+Fight Club,0,1,"Joyful, Euphoric, Excited, Happy",Drama
+The Shawshank Redemption,1,0,"Happy, Joyful",Horror
+The Godfather,4,5,"Sad, Joyful, Anxious, Bored",Sci-Fi
+Interstellar,1,4,"Bored, Euphoric, Relaxed",Crime
+The Avengers,5,2,"Sad, Neutral, Euphoric",Drama
+The Green Mile,0,1,"Anxious, Happy",Thriller
+The Shining,3,5,Joyful,Sci-Fi
+Black Panther,4,3,Happy,Comedy
+The Wolf of Wall Street,0,0,"Relaxed, Neutral, Euphoric",Action
+Forrest Gump,2,1,"Bored, Happy",Horror
+Deadpool,4,4,"Sad, Anxious",Thriller
+Back to the Future,3,4,"Neutral, Sad",Drama
+Saving Private Ryan,0,2,"Relaxed, Excited, Neutral",Comedy
+The Social Network,1,4,Happy,Crime
+The Batman,2,2,Relaxed,Thriller
+The Green Mile,5,4,"Neutral, Euphoric, Sad, Anxious",Musical
+The Departed,0,3,"Excited, Euphoric, Neutral",Crime
+Inception,2,3,"Bored, Anxious",Drama
+Forrest Gump,1,1,"Neutral, Bored, Relaxed, Euphoric",Sci-Fi
+The Wolf of Wall Street,2,2,"Joyful, Euphoric, Happy",Crime
+Inception,2,5,"Joyful, Neutral, Bored, Relaxed",Action
+Black Panther,3,4,Neutral,Horror
+A Clockwork Orange,0,3,"Relaxed, Happy, Excited",Horror
+La La Land,4,0,"Neutral, Bored",Drama
+The Shawshank Redemption,4,4,Sad,Crime
+The Godfather,2,2,"Happy, Bored",Thriller
+The Green Mile,5,1,Anxious,Action
+A Beautiful Mind,1,3,"Bored, Euphoric",Thriller
+Back to the Future,1,5,"Neutral, Joyful, Anxious, Bored",Action
+The Lion King,1,0,"Sad, Joyful",Action
+The Silence of the Lambs,4,4,"Relaxed, Bored, Excited",Drama
+Whiplash,2,1,"Euphoric, Happy, Bored",Drama
+La La Land,2,1,Neutral,Fantasy
+Titanic,5,0,"Neutral, Happy, Anxious",Sci-Fi
+Gladiator,5,1,"Sad, Anxious, Neutral",Fantasy
+Mad Max: Fury Road,4,2,Happy,Horror
+Inception,4,3,"Neutral, Relaxed, Bored, Anxious",Horror
+Titanic,0,1,"Joyful, Euphoric, Relaxed",Thriller
+A Beautiful Mind,2,4,"Excited, Relaxed",Sci-Fi
+Bohemian Rhapsody,5,4,"Bored, Neutral",Musical
+Pulp Fiction,3,1,"Neutral, Anxious",Musical
+Forrest Gump,0,4,"Joyful, Neutral, Euphoric",Thriller
+The Avengers,1,3,"Happy, Relaxed",Thriller
+Avatar,2,4,"Euphoric, Happy, Relaxed",Comedy
+Fight Club,3,0,"Bored, Anxious, Joyful, Excited",Drama
+12 Years a Slave,5,4,Relaxed,Drama
+Schindler's List,0,5,"Joyful, Relaxed",Thriller
+No Country for Old Men,4,1,"Euphoric, Joyful, Sad",Comedy
+The Avengers,1,1,"Happy, Sad, Joyful, Euphoric",Comedy
+The Irishman,2,0,"Neutral, Excited, Sad",Drama
+The Irishman,1,3,"Sad, Euphoric",Comedy
+Avatar,3,4,"Happy, Euphoric, Relaxed, Excited",Crime
+Avatar,4,2,Excited,Fantasy
+The Lord of the Rings: The Return of the King,0,1,"Excited, Happy",Fantasy
+Slumdog Millionaire,3,3,Excited,Action
+Black Panther,4,1,"Sad, Anxious, Euphoric, Joyful",Fantasy
+The Silence of the Lambs,1,2,"Anxious, Happy",Drama
+The Matrix,5,1,Happy,Fantasy
+The Batman,1,0,"Anxious, Relaxed, Excited",Horror
+12 Years a Slave,4,2,"Excited, Anxious",Comedy
+Interstellar,0,3,"Bored, Neutral",Fantasy
+The Prestige,5,3,"Relaxed, Sad, Euphoric, Excited",Fantasy
+The Shining,1,5,"Bored, Euphoric, Joyful, Anxious",Drama
+Rocky,0,5,"Euphoric, Sad, Relaxed, Anxious",Horror
+The Batman,2,0,"Bored, Neutral, Sad",Crime
+The Departed,0,4,"Neutral, Happy, Excited, Anxious",Fantasy
+Titanic,0,0,"Euphoric, Bored, Sad",Comedy
+Spider-Man: No Way Home,1,5,Anxious,Horror
+Mad Max: Fury Road,4,2,"Neutral, Excited, Happy, Anxious",Action
+Saving Private Ryan,2,0,"Bored, Sad, Neutral",Action
+The Lord of the Rings: The Return of the King,0,3,"Anxious, Bored, Excited",Horror
+No Country for Old Men,5,2,Joyful,Horror
+Saving Private Ryan,0,1,Excited,Sci-Fi
+Inception,1,1,"Euphoric, Happy",Fantasy
+Titanic,4,2,"Excited, Bored, Anxious",Comedy
+The Prestige,0,3,Happy,Thriller
+Gladiator,1,1,"Neutral, Relaxed, Euphoric, Anxious",Action
+12 Years a Slave,3,5,"Joyful, Sad",Sci-Fi
+The Batman,1,4,"Joyful, Sad, Bored, Relaxed",Fantasy
+Pulp Fiction,1,4,Happy,Crime
+The Lion King,5,3,"Neutral, Happy, Relaxed, Anxious",Horror
+Rocky,5,4,"Bored, Joyful, Euphoric, Anxious",Horror
+Goodfellas,1,2,"Euphoric, Relaxed",Thriller
+Jaws,5,3,"Euphoric, Sad, Bored",Thriller
+The Lion King,2,5,"Neutral, Happy, Sad, Bored",Drama
+The Grand Budapest Hotel,1,3,"Joyful, Anxious, Relaxed, Bored",Crime
+Fight Club,0,1,"Relaxed, Excited",Comedy
+Joker,4,5,"Excited, Joyful",Sci-Fi
+A Beautiful Mind,5,2,Happy,Comedy
+Django Unchained,2,0,Neutral,Fantasy
+La La Land,3,3,Euphoric,Musical
+Deadpool,2,1,"Sad, Anxious, Bored, Neutral",Thriller
+Jaws,3,3,Euphoric,Musical
+The Revenant,2,1,"Sad, Joyful, Bored",Comedy
+Deadpool,2,0,"Relaxed, Excited, Joyful",Musical
+Mad Max: Fury Road,4,0,"Relaxed, Happy",Musical
+Whiplash,4,1,Joyful,Crime
+Slumdog Millionaire,0,4,"Happy, Anxious",Horror
+The Lion King,1,0,"Happy, Sad, Bored",Drama
+Rocky,2,0,Joyful,Crime
+12 Years a Slave,2,4,"Relaxed, Neutral, Bored",Thriller
+Whiplash,2,2,"Bored, Joyful",Horror
+The Prestige,2,5,"Neutral, Relaxed, Happy",Crime
+Black Panther,0,4,"Excited, Bored, Joyful",Crime
+The Grand Budapest Hotel,3,0,"Excited, Joyful, Anxious, Bored",Drama
