@@ -5,6 +5,7 @@ import pandas as pd
 import random
 import uvicorn
 import os
+import asyncio
 
 app = FastAPI()
 
@@ -44,6 +45,11 @@ def rec(df, mental_health, happiness, mood,l=[],cnt = 0,val=1):
 
         except Exception as e:
             return f"An error occurred: {str(e)}"
+
+@app.api_route("/ping", methods=["GET", "HEAD"])
+async def ping():
+    await asyncio.sleep(0.1)
+    return {"message": "server is running"}
 
 @app.post("/recommendations")
 def get_recommendations(ui: input1):
